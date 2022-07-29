@@ -1,6 +1,6 @@
 ### Welcome To My Profile!👋
 
-💬 If you need any help join my [discord server](https:/discord.gg/u8xaNe3mRd).
+💬 If you need any help join my [discord server](https://discord.gg/u8xaNe3mRd).
 
 ---
 
