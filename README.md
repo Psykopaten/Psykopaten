@@ -4,7 +4,7 @@
 
 ---
 
-[![Psykopaten's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psykopaten&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Psykopaten's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psykopaten&show_icons=true&theme=transparent)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psykopaten&layout=compact&theme=github_dark)](https://github.com/Psykopaten/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psykopaten&layout=compact&theme=transparent)](https://github.com/Psykopaten/github-readme-stats)
