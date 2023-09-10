@@ -1,8 +1,8 @@
 ### Welcome To My Profile! <img src="https://c.tenor.com/Vt4yLUzQUvcAAAAC/wave-hand.gif" width="25px"> <img src="https://media4.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" width="25px">
 
-💬 If you need any help join my [discord server](https://discord.gg/u8xaNe3mRd).
+💬 If you need any help join my [discord server](https://discord.gg/TJCKedg8SB).
 
-[New discord server!!!](https://discord.gg/FVeDsWceY)
+[New discord server!!!](https://discord.gg/TJCKedg8SB)
 
 ---
 
